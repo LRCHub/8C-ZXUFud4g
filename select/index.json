@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "誰よりも",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:35:54.758318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰よりも",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/01_誰よりも_ウルフルズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰よりも",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/02_誰よりも_BE_FIRST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰よりも",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_誰よりも_BE_FIRST.txt"
+    }
+  ]
+}
